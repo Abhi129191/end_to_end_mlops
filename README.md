@@ -1,1 +1,1 @@
-# end_to_end_mlops
+# end_to_end_chest_cancer_classification_mlops
